@@ -1,5 +1,7 @@
 # Functions Exercises
 
+[### I solved the bonus]: <>
+
 ## Before you begin
 
 - Fork and clone this repo to your computer
@@ -15,9 +17,11 @@ You are ready to begin!
 
 Write your code in the file `Exercise.js` in the pre-made functions.
 
+- **Commit** after each question you solve
 - **Do not** change any function's name
 - **Do not** delete any other piece of code, only add yours
 - **Do not** edit any of the other files
+- **Uncomment** line 3 if you solved the bonus question
 
 <br/>
 
@@ -25,7 +29,7 @@ Write your code in the file `Exercise.js` in the pre-made functions.
 
 You _can_ test your code on your own in the `Exercise.js` file.
 
-**But**, to pass the task you should also pass the **automated tests**. You should have 6/6.
+**But**, to pass the task you should also pass the **automated tests**. You should have 6/6 (you start with 1/6 because of the bonus)
 
 To run the tests type `npm test` and press enter.
 
@@ -34,8 +38,6 @@ To run the tests type `npm test` and press enter.
 
 # The Questions
 
-<br/>
-<br/>
 ### Question 1
 
 Write a JavaScript function that reverse a number.
